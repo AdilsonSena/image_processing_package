@@ -1,4 +1,6 @@
-# Creating an Image Processing Package with Python
+ # Creating an Image Processing Package with Python
+
+ ### Erro ao tentar logar no TestPypi/Pypi...
 
 ## Description
 
